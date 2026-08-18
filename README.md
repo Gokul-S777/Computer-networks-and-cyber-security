@@ -75,18 +75,17 @@ The following evidence can be collected for this simulated investigation:
 Evidence 1 – Suspicious Email
 
 The suspicious email is examined to identify characteristics such as an unexpected link, unusual sender information, or a request for account verification.
-[Evidence 1] (co4 1.jpeg)
-
+![Evidence 1] (co4%201.jpeg)
 
 Evidence 2 – Security Logs
 
 System and security logs are examined to identify unusual login attempts or other activities around the time of the incident.
-[Evidence 2] (2.jpeg)
+![Evidence 2] (2.jpeg)
 
 Evidence 3 – Network Activity
 
 Network traffic can be examined using Wireshark to identify unusual or unexpected communication.
-[Evidence 3] (3.jpeg)
+![Evidence 3] (3.jpeg)
 6. Evidence Analysis
 
 After collecting the evidence, each item is examined to understand whether it is related to the simulated incident.
